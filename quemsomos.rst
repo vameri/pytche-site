@@ -22,6 +22,16 @@ Christian S. Perone
 
 `Github <https://github.com/perone>`_, `Twitter @tarantulae <https://twitter.com/tarantulae>`_, `Linkedin <http://www.linkedin.com/pub/christian-perone/2/95a/102>`_.
 
+
+Vagner Ribas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Nome**: Vagner Ribas
+
+**Cidade**: Porto Alegre / RS
+
+`Github <https://github.com/vameri>`_, `Twitter @vameri <https://twitter.com/vameri>`_, `Linkedin <http://www.linkedin.com/pub/vagnerron-ribas/28/30a/603>`_.
+
+
 Projetos
 ----------------------------------
 Veja nesta seção os projetos do PyTche.
